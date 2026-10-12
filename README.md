@@ -53,5 +53,5 @@ Open `http://localhost:8080` to interact with the application.
 
 ## Author & License
 
-- **Developer:** Hossam Ahmed ([@KabtinBandar](https://github.com/KabtinBandar))
+- **Developer:** Hossam Ahmed ([@HossamAhmedSoft](https://github.com/HossamAhmedSoft))
 - **License:** MIT
